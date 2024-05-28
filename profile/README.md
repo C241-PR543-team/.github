@@ -1,6 +1,3 @@
-# Moove - Automatic Vacation Planning
-
-## Moove Brief Introduction
 Indonesia has many interesting places to visit. Based on personal experience and market research, the sheer number of tourist attractions one wants to visit makes it difficult to decide where to go. Our team believes that every trip has the potential to be a great experience, and we want to help users optimize their time on vacation. To solve this problem, we came up with the idea of creating a phone app that would help customers organize their travel schedules during the holidays. And we offer a variety of features that can be customized to each user's needs.
 
 ## Team Members
