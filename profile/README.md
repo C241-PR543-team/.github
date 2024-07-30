@@ -1,5 +1,7 @@
 Indonesia has many interesting places to visit. Based on personal experience and market research, the sheer number of tourist attractions one wants to visit makes it difficult to decide where to go. Our team believes that every trip has the potential to be a great experience, and we want to help users optimize their time on vacation. To solve this problem, we came up with the idea of creating a phone app that would help customers organize their travel schedules during the holidays. And we offer a variety of features that can be customized to each user's needs.
 
+The presentation slides can be accessed [here](https://www.canva.com/design/DAGIBZ91Mxk/SHPx4R4xwgT-aRiA0mpBCw/view?utm_content=DAGIBZ91Mxk&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+
 ## Team Members
 | Bangkit ID       | Name                     | Learning Path      | Campus                               |
 | ---------------- | ------------------------ | ------------------ | ------------------------------------ |
